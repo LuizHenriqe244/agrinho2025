@@ -7,7 +7,7 @@ let jogoEmAndamento = false; // Inicializa como false
 function preload(){
   fundo = loadImage("imagens/agricultura.png");
   doninha = loadImage("imagens/doninha.png");
-  milho = loadImage("imagens/milho.png");
+  milho = loadImage("imagens/images.jpeg");
   gaiola = loadImage("imagens/gaiola.png");
 }
 
